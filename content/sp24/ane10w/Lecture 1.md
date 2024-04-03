@@ -23,15 +23,18 @@ Adjacent to the Coastal Highway, which goes from Egypt to Mesopotamia.
 > The irony of Jerusalem - it should be insignificant due to its unfortunate location and geography, but it is the "City of God". Cited in the idea of the *New Jerusalem* where heaven will come to earth.
 #### Valleys
 Jerusalem has mainly been taken from the north since there are no natural valleys or barriers north of Jerusalem.
+
 Valleys:
 1. Hinnom
 2. central
 3. Kidron
+
 Hills:
 1. Western
 2. Temple Mount and city of David
 3. Mt. of Olives
 4. Mt.? Zion - Pitted between the Mt. of Olives and the Western Hill
+
 Jerusalem being surrounded by the hills lending to the analogies written in the Bible - Psalms 125:2, Isaiah 2:2
 #### Water
 The main reason it was favorable to settle in Jerusalem was due to its supply of water.
