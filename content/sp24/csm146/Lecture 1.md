@@ -35,12 +35,15 @@ we aim to build a function $h(x)$ to predict the true value $y$ associated with 
 ### Measure how good our hypothesis $h$ is 
 Think about minimizing your risk on unseen data.
 **Risk/Expected test loss**: assume we know the true distribution of data $p(x,y)$ the *risk* is
+
 $$
 R[h(x)] = \sum _{x,y} l(h(x), y)p(x,y)
 $$
+
 >Claim:
 >Given an observation $x$, the optimal Bayes' classifier is given by:
->$$
+
+$$
 h^{opt}(x) = arg max_{y} p(y|x)
 $$
 
