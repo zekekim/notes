@@ -1,5 +1,5 @@
 ---
-title: Lecture 1
+title: Lecture 1 - Introduction
 draft: 
 tags: 
 date: 2024-04-01
