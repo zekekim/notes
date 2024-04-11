@@ -164,3 +164,7 @@ $$
 $$
 - Batch Gradient Descent computes the exact gradient
 - Stochastic gradient descent approximates the gradient with a single data point
+## What if $X^TX$ is not inverible?
+This can hapen either if
+1. $N <D$. Intuitively, not enough data to estimate all the parameters.
+2. $X$ columns are not linearly independent.
